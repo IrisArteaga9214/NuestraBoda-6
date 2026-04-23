@@ -128,7 +128,7 @@ export function Invitation() {
           >
             <Image src="/images/tarjetapase.png" alt="Marco" fill className="object-contain" style={{ transform: 'scaleX(-1)' }} />
             <div className="absolute inset-0 flex items-center justify-center gap-2 md:gap-3 text-center">
-              <span className="text-7xl md:text-8xl lg:text-9xl leading-none" style={{ fontFamily: 'var(--font-cormorant)', fontWeight: 300, color: '#F9F4E8' }}>2</span>
+              <span className="text-7xl md:text-8xl lg:text-9xl leading-none" style={{ fontFamily: 'var(--font-cormorant)', fontWeight: 300, color: '#F9F4E8' }}>6</span>
               <span className="text-xl md:text-2xl lg:text-3xl uppercase tracking-[0.2em] mt-2" style={{ fontFamily: 'var(--font-cormorant)', fontWeight: 400, color: '#F9F4E8' }}>Pases</span>
             </div>
           </motion.div>
